@@ -1,6 +1,6 @@
 # Feature Showcase Component
 
- # A responsive and interactive Feature Showcase section built with React and TailwindCSS. Designed for landing pages to highlight key product features with images, text, and interactive controls.
+A responsive and interactive Feature Showcase section built with React and TailwindCSS. Designed for landing pages to highlight key product features with images, text, and interactive controls.
 
 # Features
 
@@ -20,6 +20,7 @@ Clean and self-contained – easy to integrate in any React project
 Clone the repository
 
 git clone https://github.com/sk-Mursalin/carousel_prevCare.git
+
 cd carousel_prevCare
 
 
